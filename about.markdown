@@ -28,7 +28,7 @@ I don't like when people tell me to use a different operating system, desktop en
 # Links
 * [Email](mailto:alicelyralain@gmail.com)
 * [Twitter](https://twitter.com/alicela1n)
-* [GitHub](https://github.com/lyra64)
+* [GitHub](https://github.com/alicela1n)
 
 # About the amazing tech powering this blog
 This blog uses Jekyll, Shiori and GitHub pages.
