@@ -8,14 +8,14 @@ categories: Misc tech stuff
 This is just a quick little post to keep notes for how I unbricked my ASUS MemoPad ME301T.
 
 # Tegra 3 unbricking
-Using ![tegra 3 unbrick](https://github.com/tofurky/tegra30_debrick) I managed to unbrick the MemoPad.
+Using [tegra 3 unbrick](https://github.com/tofurky/tegra30_debrick) I managed to unbrick the MemoPad.
 
 # Enter APX mode
 Different depending on device.
 
 # Pwning the bootrom
 ```
-./fusee-launcher/fusee-launcher.py ./payload/uart_payload_n7.bin -P 7330
+# ./fusee-launcher/fusee-launcher.py ./payload/uart_payload_n7.bin -P 7330
 ```
 
 # Is your BCT Good?
@@ -26,7 +26,7 @@ If you don't have a Nexus 7 or Ouya you'll need a BCT. You can dump it with:
 
 Check it with:
 ```
-bct_edit BCT_READBACK_N7.bin
+# bct_edit BCT_READBACK_N7.bin
 ```
 
 If good, make sure you have an EBT image, if you don't you're probably screwed
@@ -40,7 +40,7 @@ If bad, make sure you have a BCT and EBT image, if not you're probably screwed
 
 Reflash to eMMC with:
 ```
-./utils/nvflash_v1.13.87205_miniloader_patched --resume --download EBT $EBT --configfile ./utils/flash.cfg
+# ./utils/nvflash_v1.13.87205_miniloader_patched --resume --download EBT $EBT --configfile ./utils/flash.cfg
 ```
 
 Hopefully it works!
