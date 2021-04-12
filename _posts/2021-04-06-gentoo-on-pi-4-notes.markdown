@@ -31,3 +31,6 @@ Gentoo is one of the most optimized distros, unfortunately this comes at the cos
 
 # Leaving off
 Should you install Gentoo on the Raspberry Pi 4? If you want tons of customization options, great optimization, granular package management, and have enough time and knowledge to troubleshoot and get it up and running, sure. For the average user I recommend sticking to Raspberry Pi OS, there's also Arch Linux ARM which is quite customizable but you won't have to do any compiling.
+
+# Screenshot
+![Screenshot](/assets/gentoo-pi4/Screenshot_2021-04-09_14-21-05.png)
