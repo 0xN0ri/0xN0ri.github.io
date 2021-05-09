@@ -1,0 +1,49 @@
+body {
+  /* padding-top: 10px; */
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #c093fa;
+}
+
+p {
+  margin-left: 10px;
+  line-break: auto;
+  padding-bottom: 25px;
+}
+
+h1 {
+  color: #000;
+  background-color: #5709bd;
+  padding: 10px;
+}
+
+button {
+  background-color: #5709bd; /* Purple */
+  border: none;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #a312e5; /* Pink */
+  color: white;
+}
+
+/* ul {
+  background: #ff9999;
+  padding: 5px;
+  margin-left: 10px;
+  list-style-type: square;
+  list-style-position: inside;
+} */
+
+/* ul li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin-left: 10px;
+} */
