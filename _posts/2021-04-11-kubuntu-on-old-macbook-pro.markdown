@@ -4,7 +4,6 @@ title: "Using Kubuntu on my old MacBook Pro"
 date:  2021-04-11 11:23:50 -0800
 categories: Linux
 ---
-I've been a full time Linux user for two years now. I've been using Arch Linux for most of my Linux life but I've distro hopped a couple times, always end up back on Arch Linux, hmm wonder why that is.
 I've used a 2010 MacBook Pro as my main laptop for a couple years, it's old, slow, and the last version of macOS to support it is 10.13.6. I replaced my MacBook a little over a year ago, so it hasn't been doing much lately.
 ![Picture](/assets/kubuntu-on-2010-mbp/IMG_3435.JPG)
 
