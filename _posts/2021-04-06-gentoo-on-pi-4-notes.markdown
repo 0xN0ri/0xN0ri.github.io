@@ -5,8 +5,6 @@ date:  2021-04-06 11:12:50 -0800
 categories: Linux
 ---
 
-Call me insane, I don't care.
-
 # Introduction
 If you remember Sakaki's Gentoo images for the Raspberry Pi 4, they were great. It was one of the best performing distros for the Raspberry Pi 4. Since Sakaki no longer updates them they are effectively dead.
 
