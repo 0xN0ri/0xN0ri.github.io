@@ -9,7 +9,7 @@ categories: Linux
 **Before getting into this it is assumed all your important data is backed up somewhere, whether that's a cloud service, or external device, this WILL wipe all your data, and I'm not responsible for anything that goes wrong!**
 
 # Introduction
-Microsoft announced their new Windows 11, I hate it. This inspired me to write a blog post to help Windows users switch over from Windows 10 to Linux, I'm gonna be focusing on Kubuntu.
+~~Microsoft announced their new Windows 11~~, (correction: the new Windows 11 was **leaked**, not officially announced) I hate it. This inspired me to write a blog post to help Windows users switch over from Windows 10 to Linux, I'm gonna be focusing on Kubuntu.
 
 # Why Kubuntu?
 * The user interface, KDE Plasma, is very good for people who are familiar with the Windows user interface
