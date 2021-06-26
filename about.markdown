@@ -6,7 +6,7 @@ permalink: /about/
 This page is getting rewritten soon!
 
 # Links
-* [Email](mailto:alicelyralain@gmail.com)
+* [Email](mailto:quarkyalice@disroot.com)
 * [Twitter](https://twitter.com/alicela1n)
 * [GitHub](https://github.com/alicela1n)
 
