@@ -23,7 +23,7 @@ Which installed the new keyring, and after that I could run
 ```
 `--overwrite` is needed to overwrite any conflicting files by force.
 After that it went smoothly. I had to force restart the VM because it was unable to shut down and restart properly.
-![screenshot post upgrade](/assets/upgrading-old-archlinux-install/Screenshot_20210702_202652.png)
+![screenshot post upgrade](/assets/upgrading-old-arch-install/Screenshot_20210702_202652.png)
 
 # Conclusion
 So while it's true that you will run into problems upgrading an old install of Arch Linux, it's a myth that these problems are unfixable and you have to reinstall if your install gets too old. As I've demonstrated you can fix these problems if you reinstall the keyring (which you usually have to do if your install gets too out of date anyway) and use a static pacman binary to work around the error about unsupported package format. So don't stress too much about updating your Arch Linux install, you should be fine as long as you read the news letter and are aware of possible problems you may run into, usually they're very fixable.
